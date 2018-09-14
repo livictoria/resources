@@ -7,7 +7,7 @@
 
 ## Product Management
 
-[Cracking the PM Interview] (https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818): Cracking the PM Interview is a comprehensive book about landing a product management role in a startup or bigger tech company.
+[Cracking the PM Interview](https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818): Cracking the PM Interview is a comprehensive book about landing a product management role in a startup or bigger tech company.
 
 ## Design
 
